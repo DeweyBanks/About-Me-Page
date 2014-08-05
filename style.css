@@ -1,0 +1,83 @@
+html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	font-family: "Impact", Charcoal, sans-serif;
+}
+
+header, footer {
+	  margin: 0 0 30px 0;
+	  padding: 5px 0 0 0;
+	  width: 100%;
+	  background: #2c373e;
+	  text-align: center;
+	  font-size: 3em;
+	  border: .5em solid black;
+	  color: #c3c6c9;
+}
+
+body {
+	background: #bec4c9;
+}
+
+article img {
+	  border-radius: 20%;
+	  float: left;
+	  width: 50%;
+	  height: 60%;
+	  margin: 2.5%;
+	  border: .5em solid black;
+	  margin: 10%
+	  clear: left;
+}
+
+article {
+      max-width: 700px;
+      padding: 20px;
+      margin: 0 auto;
+      font-size: 1.5em;
+      font-family: "Tahoma", Geneva, sans-serif
+    }
+
+h1 {
+	font-family: "Impact", Charcoal, sans-serif;
+}
+
+article a {
+ 	color: black;
+ }
+
+a {
+	color: white;
+}
+
+footer {
+	margin-bottom: 0;
+}
+
+
+ @media (max-width: 500px) {
+
+ 		header {
+ 			width: 90%;
+ 		}
+
+    	footer {
+    		width: 94%;
+    		font-size: 2em;
+    	}
+
+    	
+    }
+
+
+
+
+
+
+
+
+
+
+
